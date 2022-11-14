@@ -1,0 +1,71 @@
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.pdb
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form1.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Properties.Resources.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.GenerateResource.Cache
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.exe
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.pdb
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.AnaSayfacs.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapEkleme.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuEkle.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapTeslim.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapListele.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuL.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.YapımAsamasında.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.ListeyiSıfrla.resources
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe.config
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.ResolveComReference.cache
+C:\Users\Dogan\Documents\Visual Studio 2015\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form2.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe.config
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.ResolveComReference.cache
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.exe
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.pdb
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.pdb
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csprojResolveAssemblyReference.cache
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.AnaSayfacs.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form1.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapEkleme.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapListele.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapTeslim.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.ListeyiSıfrla.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuEkle.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuL.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Properties.Resources.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.YapımAsamasında.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.GenerateResource.Cache
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form2.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KisiselBilgiler.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KameraCek.resources
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Doğan\Kişisel\E-Kutuphane\E-Kutuphane\obj\Debug\Interop.Video_TVServerLib.dll
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe.config
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\obj\Debug\Interop.Video_TVServerLib.dll
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.ResolveComReference.cache
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.exe
+D:\Doğan\Kişisel\C# Çalışmaları\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.pdb
+H:\C# Studies\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe.config
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\Interop.MSVidCtlLib.dll
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.ResolveComReference.cache
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.exe
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.pdb
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csprojResolveAssemblyReference.cache
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.AnaSayfacs.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form1.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Form2.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KameraCek.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KisiselBilgiler.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapEkleme.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapListele.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.KitapTeslim.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.ListeyiSıfrla.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuEkle.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.OkuyucuL.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.Properties.Resources.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E_Kutuphane.YapımAsamasında.resources
+H:\C# Studies\E-Kutuphane\E-Kutuphane\obj\Debug\E-Kutuphane.csproj.GenerateResource.Cache
+H:\C# Studies\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.exe
+H:\C# Studies\E-Kutuphane\E-Kutuphane\bin\Debug\E-Kutuphane.pdb
+H:\C# Studies\E-Kutuphane\E-Kutuphane\bin\Debug\Interop.MSVidCtlLib.dll
